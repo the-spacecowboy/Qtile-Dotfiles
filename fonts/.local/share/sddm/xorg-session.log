@@ -1,0 +1,137 @@
+[ 09/14/2022 15:21:16.466 parse_config_libconfig WARN ] Invalid blur method glx, ignoring.
+polybar|notice:  Parsing config file: /home/skankingpickle/.config/polybar/config.ini
+polybar|notice:  Parsing config file: /home/skankingpickle/.config/polybar/config.ini
+polybar|notice:  Parsing config file: /home/skankingpickle/.config/polybar/config.ini
+polybar|notice:  Parsing config file: /home/skankingpickle/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 629)
+polybar|notice:  Listening for IPC messages (PID: 631)
+polybar|notice:  Listening for IPC messages (PID: 630)
+polybar|notice:  Listening for IPC messages (PID: 632)
+polybar|warn:  No monitor specified, using "DP-4"
+polybar|error: Invalid value for "bar/output-control.padding-left", using default value (reason: stof)
+polybar|error: Invalid value for "bar/output-control.padding-right", using default value (reason: stof)
+polybar|error: Invalid value for "bar/output-control.module-margin", using default value (reason: stof)
+polybar|notice:  Loading module 'pulseaudio-control-output' of type 'custom/script'
+polybar|error: Invalid value for "module/pulseaudio-control-output.format-underline", using default value (reason: The reference ${colors.cyan} does not exist (no fallback set))
+polybar|notice:  Loaded 1 modules
+polybar|warn:  No monitor specified, using "DP-4"
+polybar|notice:  Loading module 'xworkspaces' of type 'internal/xworkspaces'
+polybar|warn:  No monitor specified, using "DP-4"
+polybar|error: Invalid value for "module/xworkspaces.label-active-underline", using default value (reason: The reference ${colors.primary} does not exist (no fallback set))
+polybar|error: Invalid value for "bar/clock.padding-right", using default value (reason: stof)
+polybar|error: Invalid value for "module/xworkspaces.label-urgent-background", using default value (reason: The reference ${colors.alert} does not exist (no fallback set))
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|error: Invalid value for "module/xworkspaces.label-empty-foreground", using default value (reason: The reference ${colors.disabled} does not exist (no fallback set))
+polybar|error: Invalid value for "module/date.label-foreground", using default value (reason: The reference ${colors.primary} does not exist (no fallback set))
+polybar|notice:  Loaded 1 modules
+polybar|notice:  Loading module 'now-playing' of type 'custom/script'
+polybar|warn:  No monitor specified, using "DP-4"
+polybar|notice:  Loaded 2 modules
+polybar|error: Invalid value for "bar/input-control.padding-left", using default value (reason: stof)
+polybar|error: Invalid value for "bar/input-control.padding-right", using default value (reason: stof)
+polybar|error: Invalid value for "bar/input-control.module-margin", using default value (reason: stof)
+polybar|notice:  Loading module 'pulseaudio-control-input' of type 'custom/script'
+polybar|error: Invalid value for "module/pulseaudio-control-input.format-underline", using default value (reason: The reference ${colors.cyan} does not exist (no fallback set))
+polybar|notice:  Loaded 1 modules
+polybar|notice:  Loaded font "monospace" (name=Courier New, offset=2, file=/home/skankingpickle/.local/share/fonts/Fonts/cour.ttf)
+polybar|notice:  Loaded font "monospace" (name=Courier New, offset=2, file=/home/skankingpickle/.local/share/fonts/Fonts/cour.ttf)
+polybar|notice:  Loaded font "monospace" (name=Courier New, offset=2, file=/home/skankingpickle/.local/share/fonts/Fonts/cour.ttf)
+polybar|notice:  Loaded font "monospace" (name=Courier New, offset=2, file=/home/skankingpickle/.local/share/fonts/Fonts/cour.ttf)
+polybar|notice:  Loaded font "FontAwesome6Free:style=Solid:size=10" (name=Font Awesome 6 Free, offset=4, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "FontAwesome6Free:style=Solid:size=10" (name=Font Awesome 6 Free, offset=4, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "FontAwesome6Free:style=Solid:size=10" (name=Font Awesome 6 Free, offset=4, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "FontAwesome6Free:style=Regular:size=10" (name=Font Awesome 6 Free, offset=4, file=/usr/share/fonts/TTF/fa-regular-400.ttf)
+polybar|notice:  Loaded font "FontAwesome6Free:style=Regular:size=10" (name=Font Awesome 6 Free, offset=4, file=/usr/share/fonts/TTF/fa-regular-400.ttf)
+polybar|notice:  Loaded font "Material Icons: style=Regular: pixelsize=13" (name=Verdana, offset=2, file=/home/skankingpickle/.local/share/fonts/Fonts/verdana.ttf)
+polybar|notice:  Loaded font "FontAwesome6Brands:style=Regular:size=10" (name=Font Awesome 6 Brands, offset=4, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "FontAwesome6Brands:style=Regular:size=10" (name=Font Awesome 6 Brands, offset=4, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 74%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 74%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 74%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   69%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   64%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   59%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   54%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   49%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   44%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   39%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   34%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   39%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   44%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   49%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   54%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   54%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 54%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 59%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 64%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 69%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 74%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 79%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 94%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 99%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 114%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 119%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 134%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 139%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 149%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 150%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 145%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 140%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 125%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 120%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 115%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 110%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 105%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 100%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 95%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 90%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 85%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 80%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in ' 80%  Speakers'
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   80%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   80%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   80%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   80%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   78%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   74%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   72%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   72%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   66%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   66%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   66%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   66%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   62%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   60%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   60%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   60%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   58%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   56%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   56%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   56%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   54%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   52%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   52%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   50%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   50%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   48%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   48%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   46%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   51%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   56%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   61%  Speakers  '
+polybar|warn:  Dropping unmatched character  (U+e32d) in '   66%  Speakers  '
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...

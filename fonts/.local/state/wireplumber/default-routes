@@ -1,0 +1,16 @@
+[default-routes]
+alsa_card.pci-0000_00_1b.0:output:analog-output-headphones:channelMap=FL;FR;
+alsa_card.pci-0000_00_1b.0:output:analog-output-headphones:channelVolumes=0.068922847509384;0.068922847509384;
+alsa_card.pci-0000_00_1b.0:output:analog-output-headphones:latencyOffsetNsec=0
+alsa_card.pci-0000_00_1b.0:output:analog-output-lineout:channelMap=FL;FR;
+alsa_card.pci-0000_00_1b.0:output:analog-output-lineout:channelVolumes=0.30076053738594;0.30076053738594;
+alsa_card.pci-0000_00_1b.0:output:analog-output-lineout:latencyOffsetNsec=0
+alsa_card.pci-0000_00_1b.0:profile:output:analog-stereo=analog-output-lineout;
+alsa_card.pci-0000_00_1b.0:profile:output:analog-stereo+input:analog-stereo=analog-output-lineout;
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:input:analog-input-mic:channelMap=MONO;
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:input:analog-input-mic:channelVolumes=0.39999160170555;
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:input:analog-input-mic:latencyOffsetNsec=0
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:output:analog-output-speaker:channelMap=FL;FR;
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:output:analog-output-speaker:channelVolumes=0.062377672642469;0.062377672642469;
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:output:analog-output-speaker:latencyOffsetNsec=0
+alsa_card.usb-C-Media_Electronics_Inc._USB_Audio_Device-00:profile:output:analog-stereo+input:mono-fallback=analog-output-speaker;analog-input-mic;

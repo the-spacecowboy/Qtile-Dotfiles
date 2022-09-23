@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/skankingpickle/Downloads/Antu.tar.tar" added="2022-09-14T04:13:28.184995Z" modified="2022-09-14T04:13:28.185001Z" visited="2022-09-14T04:13:28.184996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T04:13:28.184999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Windows%2011%20Icon.png" added="2022-09-14T15:10:19.752584Z" modified="2022-09-14T15:10:19.752592Z" visited="2022-09-14T15:10:19.752585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:10:19.752588Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Windows%2011%20Icon(1).png" added="2022-09-14T15:10:20.653552Z" modified="2022-09-14T15:10:20.653563Z" visited="2022-09-14T15:10:20.653554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:10:20.653557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/os_win11.png" added="2022-09-14T15:12:53.439976Z" modified="2022-09-14T15:12:53.760111Z" visited="2022-09-14T15:12:53.439977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:12:53.760106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/PS2/Covers/Haunting_Ground.jpg" added="2022-09-14T15:33:46.007041Z" modified="2022-09-14T15:33:46.353660Z" visited="2022-09-14T15:33:46.007043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:33:46.353655Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/PS2/Covers/Kingdom_Hearts.jpg" added="2022-09-14T15:34:13.319982Z" modified="2022-09-14T15:34:13.671576Z" visited="2022-09-14T15:34:13.319984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:34:13.671570Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/PS2/Covers/The_Simpsons_Hit_&amp;_Run.jpg" added="2022-09-14T15:34:47.221872Z" modified="2022-09-14T15:34:47.533462Z" visited="2022-09-14T15:34:47.221874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:34:47.533459Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/PS2/Covers/Destroy_All_Humans.jpg" added="2022-09-14T15:37:28.511797Z" modified="2022-09-14T15:37:28.812902Z" visited="2022-09-14T15:37:28.511800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:37:28.812887Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/PS2/Covers/Destroy_All_Humans_2.jpg" added="2022-09-14T15:37:56.508365Z" modified="2022-09-14T15:37:56.838775Z" visited="2022-09-14T15:37:56.508368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:37:56.838766Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Destroy%20All%20Humans!%20(USA).7z" added="2022-09-14T15:40:10.712360Z" modified="2022-09-14T15:40:10.712374Z" visited="2022-09-14T15:40:10.712362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:40:10.712366Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Destroy%20All%20Humans!%202%20(USA).7z" added="2022-09-14T15:46:05.679524Z" modified="2022-09-14T15:46:05.679588Z" visited="2022-09-14T15:46:05.679527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:46:05.679564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/SoulCalibur_2.jpg" added="2022-09-14T15:52:27.549003Z" modified="2022-09-14T16:05:22.816829Z" visited="2022-09-14T15:52:27.549004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:05:22.816824Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/SoulCalibur%20III%20(USA).7z" added="2022-09-14T15:54:55.630756Z" modified="2022-09-14T15:54:55.630774Z" visited="2022-09-14T15:54:55.630758Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:54:55.630765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/SoulCalibur_3.jpg.jpg" added="2022-09-14T15:59:56.225592Z" modified="2022-09-14T15:59:56.562783Z" visited="2022-09-14T15:59:56.225593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T15:59:56.562779Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Soulcalibur%20II%20(USA).7z" added="2022-09-14T16:01:21.593838Z" modified="2022-09-14T16:01:21.593867Z" visited="2022-09-14T16:01:21.593841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:01:21.593848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Futurama%20(USA).7z" added="2022-09-14T16:05:49.097669Z" modified="2022-09-14T16:05:49.097696Z" visited="2022-09-14T16:05:49.097671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:05:49.097679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Futurama.jpg" added="2022-09-14T16:06:09.587380Z" modified="2022-09-14T16:06:09.909913Z" visited="2022-09-14T16:06:09.587383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:06:09.909900Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Medal%20of%20Honor%20-%20European%20Assault%20(USA).7z" added="2022-09-14T16:11:47.523961Z" modified="2022-09-14T16:11:47.523970Z" visited="2022-09-14T16:11:47.523962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:11:47.523966Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Medal_Of_Honor:European_Assault.jpg" added="2022-09-14T16:15:34.994702Z" modified="2022-09-14T16:15:35.330132Z" visited="2022-09-14T16:15:34.994704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:15:35.330121Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Medal_Of_Honor:Rising_Sun.jpg" added="2022-09-14T16:16:56.489841Z" modified="2022-09-14T16:16:56.781576Z" visited="2022-09-14T16:16:56.489842Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:16:56.781574Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Medal_Of_Honor:Vanguar.jpg" added="2022-09-14T16:17:27.813134Z" modified="2022-09-14T16:17:28.118094Z" visited="2022-09-14T16:17:27.813136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:17:28.118080Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Medal_Of_Honor:Frontline.jpg" added="2022-09-14T16:17:44.048100Z" modified="2022-09-14T16:17:44.366801Z" visited="2022-09-14T16:17:44.048102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:17:44.366786Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Medal_Of_Honor:Vanguard.jpg" added="2022-09-14T16:18:15.376417Z" modified="2022-09-14T16:18:15.705181Z" visited="2022-09-14T16:18:15.376418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:18:15.705179Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Medal%20of%20Honor%20-%20Rising%20Sun%20(USA).7z" added="2022-09-14T16:22:41.672681Z" modified="2022-09-14T16:22:41.672693Z" visited="2022-09-14T16:22:41.672683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:22:41.672687Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Medal%20of%20Honor%20-%20Vanguard%20(USA).7z" added="2022-09-14T16:25:04.828473Z" modified="2022-09-14T16:25:04.828487Z" visited="2022-09-14T16:25:04.828475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:25:04.828479Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Medal%20of%20Honor%20-%20Frontline%20(USA).7z" added="2022-09-14T16:33:25.361734Z" modified="2022-09-14T16:33:25.361747Z" visited="2022-09-14T16:33:25.361735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:33:25.361741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Kingdom%20Hearts%20II%20(USA).7z" added="2022-09-14T16:39:32.179293Z" modified="2022-09-14T16:39:32.179318Z" visited="2022-09-14T16:39:32.179295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:39:32.179307Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Kingdom_Hearts_II.jpg" added="2022-09-14T16:50:44.296551Z" modified="2022-09-14T16:50:44.618159Z" visited="2022-09-14T16:50:44.296552Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:50:44.618156Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Kingdom_Hearts_RE:Chain_Of_Memories.jpg" added="2022-09-14T16:51:22.060794Z" modified="2022-09-14T16:51:22.369695Z" visited="2022-09-14T16:51:22.060796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:51:22.369682Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Kingdom%20Hearts%20-%20Re-Chain%20of%20Memories%20(USA).7z" added="2022-09-14T16:51:24.710268Z" modified="2022-09-14T16:51:24.710291Z" visited="2022-09-14T16:51:24.710270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:51:24.710285Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Kingdom%20Hearts%20II%20-%20Final%20Mix%20Plus%20(English%20Undub%20Patched).7z" added="2022-09-14T16:52:12.945779Z" modified="2022-09-14T16:52:12.945838Z" visited="2022-09-14T16:52:12.945792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:52:12.945802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PS2/Covers/Kingdom_Hearts_II:Final_Mix.jpg" added="2022-09-14T16:52:13.650718Z" modified="2022-09-14T16:52:13.971871Z" visited="2022-09-14T16:52:13.650719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T16:52:13.971855Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Crash%20Bandicoot%20(USA).7z" added="2022-09-14T17:18:55.104673Z" modified="2022-09-14T17:18:55.104684Z" visited="2022-09-14T17:18:55.104674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:18:55.104678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20(USA).7z" added="2022-09-14T17:19:15.984269Z" modified="2022-09-14T17:19:15.984285Z" visited="2022-09-14T17:19:15.984272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:19:15.984278Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Crash%20Bandicoot%20-%20Warped%20(USA).7z" added="2022-09-14T17:19:39.132068Z" modified="2022-09-14T17:19:39.132080Z" visited="2022-09-14T17:19:39.132070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:19:39.132074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Spyro%20the%20Dragon%20(USA).7z" added="2022-09-14T17:29:33.583467Z" modified="2022-09-14T17:29:33.583477Z" visited="2022-09-14T17:29:33.583469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:29:33.583472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Spyro%202%20-%20Ripto&apos;s%20Rage!%20(USA).7z" added="2022-09-14T17:30:43.608288Z" modified="2022-09-14T17:30:43.608303Z" visited="2022-09-14T17:30:43.608290Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:30:43.608296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Fighting%20Force%202%20(USA).7z" added="2022-09-14T17:33:28.458182Z" modified="2022-09-14T17:33:28.461463Z" visited="2022-09-14T17:33:28.458183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:33:28.458191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Fighting%20Force%20(USA)%20(v1.0).7z" added="2022-09-14T17:34:01.273063Z" modified="2022-09-14T17:34:01.273088Z" visited="2022-09-14T17:34:01.273065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:34:01.273077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Crash-Bandicoot.jpg" added="2022-09-14T17:36:12.952146Z" modified="2022-09-14T17:36:13.274701Z" visited="2022-09-14T17:36:12.952148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:36:13.274690Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Crash_Bandicoot_2_Cortex_Strikes-Back.jpg" added="2022-09-14T17:36:41.776609Z" modified="2022-09-14T17:36:42.110408Z" visited="2022-09-14T17:36:41.776611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:36:42.110400Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Crash_Bandicoot_3_Warped.jpg" added="2022-09-14T17:37:06.791548Z" modified="2022-09-14T17:37:07.127270Z" visited="2022-09-14T17:37:06.791550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:37:07.127265Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Fighting_Force.jpg" added="2022-09-14T17:40:57.785835Z" modified="2022-09-14T17:40:58.144583Z" visited="2022-09-14T17:40:57.785837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:40:58.144577Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Fighting_Force_2.jpg" added="2022-09-14T17:41:07.118271Z" modified="2022-09-14T17:41:07.459437Z" visited="2022-09-14T17:41:07.118273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:41:07.459431Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Spyro_The_Dragon.jpg" added="2022-09-14T17:41:56.168178Z" modified="2022-09-14T17:41:56.513479Z" visited="2022-09-14T17:41:56.168181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:41:56.513475Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Spyro%20_The_Dragon_2:Riptos_Revenge.jpg" added="2022-09-14T17:42:28.077170Z" modified="2022-09-14T17:42:28.428320Z" visited="2022-09-14T17:42:28.077172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:42:28.428315Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Spyro%20-%20Year%20of%20the%20Dragon%20(USA)%20(v1.1).7z" added="2022-09-14T17:42:53.929136Z" modified="2022-09-14T17:42:53.929144Z" visited="2022-09-14T17:42:53.929138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:42:53.929141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Games/Roms%20&amp;%20Isos/Sony/PSX/Covers/Spyro_The_Dragon_3:Year_Of_The_Dragon.jpg" added="2022-09-14T17:43:08.738516Z" modified="2022-09-14T17:43:09.078969Z" visited="2022-09-14T17:43:08.738518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:43:09.078966Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Rayman%202%20-%20The%20Great%20Escape%20(USA)%20(En,Fr,Es).7z" added="2022-09-14T17:46:30.028507Z" modified="2022-09-14T17:46:30.028528Z" visited="2022-09-14T17:46:30.028514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:46:30.028522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Rayman%20Rush%20(USA).7z" added="2022-09-14T17:46:40.589495Z" modified="2022-09-14T17:46:40.589517Z" visited="2022-09-14T17:46:40.589496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:46:40.589500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/Rayman%20(USA).7z" added="2022-09-14T17:47:03.919756Z" modified="2022-09-14T17:47:03.919767Z" visited="2022-09-14T17:47:03.919758Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:47:03.919761Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/PS1_BIOS.zip" added="2022-09-14T17:55:18.221462Z" modified="2022-09-14T17:55:18.221468Z" visited="2022-09-14T17:55:18.221463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T17:55:18.221465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/PS1_BIOS(1).zip" added="2022-09-14T18:00:23.422650Z" modified="2022-09-14T18:00:23.422658Z" visited="2022-09-14T18:00:23.422651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T18:00:23.422655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/scph5501.bin" added="2022-09-14T18:01:36.925380Z" modified="2022-09-14T18:01:36.925386Z" visited="2022-09-14T18:01:36.925381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T18:01:36.925383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/scph5500.bin" added="2022-09-14T18:01:36.933698Z" modified="2022-09-14T18:01:36.933703Z" visited="2022-09-14T18:01:36.933699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T18:01:36.933701Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/skankingpickle/Downloads/scph5502.bin" added="2022-09-14T18:01:36.934089Z" modified="2022-09-14T18:01:36.934093Z" visited="2022-09-14T18:01:36.934089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T18:01:36.934091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

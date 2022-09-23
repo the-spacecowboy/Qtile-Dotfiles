@@ -1,0 +1,50 @@
+mkdir share
+shell stow duckstation
+mkdir Playlists-Mpv
+nvim
+shell nvim
+open_with mpv 
+shell mpv --playlist
+open_with mpv --playlist=
+shell mpv --playlist=Lofit.txt
+open_with mpv --playlist
+mkdir Destroy All Humans
+mkdir Kingdom_Hearts
+rename Destroy_All_Humans
+mkdir Medal_Of_Honor
+mkdir Soulcalibur
+cw
+rename Rom
+open_with nvim
+c
+shell sudo chown skankingpickle:jellyfin Videos
+shell sudo chown skankingpickle:skankingpickle Videos
+sudo ln -sr Videos /
+shell sudo ln -s Videos /
+shell sudo rm -f Videos
+
+mkdir jellyfin
+shell sudo chown jellyfin:jellygin jellyfin
+shell chown jellyfin:jellyfin jellyfin
+search xenoblade
+search mkdir Wii
+search mkd
+mkdir Wii
+shell unzip Xenoblade\ Chronicles\ \(USA\)\ \(Wii\).zip
+search 
+mkdir Music
+search flying
+shell unzip Flying\ Beagle.zip
+delete
+mkdir Flying Beagle
+open_with mpv
+shell ln -sr ~/
+shell rm -f skankingpickle
+shell ln -sr Music ~/
+mkdir Himiko Kikuchi
+rename Himiko_Kikuchi
+rename Flying_Beagle
+mkdir Green_Day
+mkdir Blink_182
+mkdir The_Beatles
+mkdir Cassiopeia 
