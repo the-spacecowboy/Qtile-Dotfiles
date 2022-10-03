@@ -1,11 +1,3 @@
-mkdir share
-shell stow duckstation
-mkdir Playlists-Mpv
-nvim
-shell nvim
-open_with mpv 
-shell mpv --playlist
-open_with mpv --playlist=
 shell mpv --playlist=Lofit.txt
 open_with mpv --playlist
 mkdir Destroy All Humans
@@ -35,9 +27,7 @@ search
 mkdir Music
 search flying
 shell unzip Flying\ Beagle.zip
-delete
 mkdir Flying Beagle
-open_with mpv
 shell ln -sr ~/
 shell rm -f skankingpickle
 shell ln -sr Music ~/
@@ -48,3 +38,13 @@ mkdir Green_Day
 mkdir Blink_182
 mkdir The_Beatles
 mkdir Cassiopeia 
+search pdf
+set show_hidden~
+set show_hidden!
+search ranger
+open_with mpv
+shell unzip wutheringheights_1306_librivox.zip
+mkdir wuthering_heights
+delete
+open_with mpv --no-video
+open_with mpv --no-audio-display
